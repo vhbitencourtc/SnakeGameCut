@@ -41,7 +41,6 @@ function createFood() {
 var infoPoint = document.getElementById('point');
 function points(){
   infoPoint.innerHTML = "Pontuação: " + (snake.length - 1) + ' Giz!';
-
 }
 
 //Criando o evento de movimento via Teclado
