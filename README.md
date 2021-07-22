@@ -1,4 +1,4 @@
-# <p align="center">:snake:Snake Game Cut:snake:</p>
+# <p align="center">:snake:Snake Game Cut:snake:
 ![Snake Game Cut](https://github.com/vhbitencourtc/DigitalInnovationOne_SnakeGameCut/blob/main/img/preview.PNG?raw=true)</p>
 
 ### :balloon:Tecnologias
